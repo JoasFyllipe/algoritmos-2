@@ -13,7 +13,6 @@ public class Aluno {
         double media = mediaNota();
         if (mediaNota() >= 7.0) {
             return "Aprovado, média: " + media;
-
         } else {
             return "Reprovado, média: " + media;
         }
