@@ -1,7 +1,6 @@
 package application;
 
 import entities.Aluno;
-
 import java.util.Locale;
 import java.util.Scanner;
 
